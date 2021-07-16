@@ -1,5 +1,12 @@
 [
 {
+	"uri": "https://dingshutong.github.io/dc-guide/overview/",
+	"title": "Overview",
+	"tags": [],
+	"description": "",
+	"content": "Overview Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://dingshutong.github.io/dc-guide/agencyscheme/",
 	"title": "AgencyScheme",
 	"tags": [],
@@ -49,18 +56,18 @@
 	"content": "7. ContentConstraint Some Chapter title Lorem Ipsum.\n"
 },
 {
+	"uri": "https://dingshutong.github.io/dc-guide/registry/",
+	"title": "Registry",
+	"tags": [],
+	"description": "",
+	"content": "Registry Some Chapter title Lorem Ipsum.\n"
+},
+{
 	"uri": "https://dingshutong.github.io/dc-guide/",
 	"title": "DSD Constructor User Guide",
 	"tags": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://dingshutong.github.io/dc-guide/overview/",
-	"title": "Overview",
-	"tags": [],
-	"description": "",
-	"content": "Overview Some Chapter title Lorem Ipsum.\n"
 },
 {
 	"uri": "https://dingshutong.github.io/dc-guide/categories/",
